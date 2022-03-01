@@ -1,0 +1,29 @@
+title: Mariendom Hildesheim
+tagline: Bernward's Bronze Doors 
+description: An interactive visual essay about the bronze doors at Mariendom commissioned by Bernward.
+banner: https://upload.wikimedia.org/wikipedia/commons/a/ae/Bernwardst%C3%BCr_%2816%29.JPG
+#favicon: <favicon url>
+#logo: <logo url>
+
+# When using a custom domain these fields must be updated to match
+# the Github account and repository name
+#acct: <GitHub account/username>
+#repo: <GitHub repository>
+
+######################################################
+# Defines options shown in the header navigation menu
+######################################################
+nav:
+- label: Contact the Juncture team
+  icon: fas fa-envelope
+  action: contact-us
+- label: View page source
+  icon: fas fa-file-code
+  action: view-markdown
+
+# If a contact-us action is defined for the nav menu a contact form will be enabled
+# The following information is used in the display and processing of the contact form.
+contactForm:
+  to:
+  - JSTOR Labs <labs@ithaka.org>
+  subject: Juncture

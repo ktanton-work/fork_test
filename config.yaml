@@ -14,7 +14,7 @@ banner: https://upload.wikimedia.org/wikipedia/commons/a/ae/Bernwardst%C3%BCr_%2
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Don't Contact Kris
+- label: Contact Kris
   icon: fas fa-envelope
   action: contact-us
 - label: View page source

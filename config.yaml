@@ -14,7 +14,7 @@ banner: https://upload.wikimedia.org/wikipedia/commons/a/ae/Bernwardst%C3%BCr_%2
 # Defines options shown in the header navigation menu
 ######################################################
 nav:
-- label: Contact Kris
+- label: Don't Contact Kris
   icon: fas fa-envelope
   action: contact-us
 - label: View page source
@@ -25,5 +25,5 @@ nav:
 # The following information is used in the display and processing of the contact form.
 contactForm:
   to:
-  - JSTOR Labs <labs@ithaka.org>
-  subject: Juncture
+  - Kris <kristine.tanton@umontreal.ca>
+  subject: Juncture Visual Essay test
